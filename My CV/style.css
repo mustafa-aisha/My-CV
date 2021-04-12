@@ -1,0 +1,42 @@
+.container {
+    max-width: 1400px;
+    padding: 50px 80px;
+    margin: auto 0;  
+}
+
+ .top {
+     text-align: center;
+     margin-bottom: 70px;
+ }
+
+ h3 {
+     border-bottom: 1px solid grey;
+     margin-bottom: 25px;
+     font-family: cursive;
+     font-weight: 900;
+     font-size: 25px;
+     
+ } 
+
+ p {
+     margin-bottom: 20px;
+ }
+
+ table td {
+     padding: 10px;
+     
+ }
+
+ @media screen and (max-width: 700px) {
+     .container {
+         text-align: center;
+         padding: 20px 20px;
+
+     }
+
+     
+ }
+ 
+
+
+ 
